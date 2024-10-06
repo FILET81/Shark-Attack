@@ -1,14 +1,20 @@
 # Sharks-Attack
 
 Encoding .csv file - Done
+Create a copy of original DataFrame - Done
 
-Create a copy of original DataFrame
-Check and clean dataset
 Look for a list of countries by continent - Done
+DataFrame checking and cleaning:
+  .Columns Dtypes:
+      .Age: object - integer/float
+  .NaN values (replace or remove?):
+      .Unnamed 22: drop
+      .Unnamed 23: drop
 
 Show trend over years
 Show shark attacks by country/continent
 Show shark attacks by country/continent and year
+Show Type/Activity
 Show Male/Female
 Show Fatal(Y/N)
 
