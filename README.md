@@ -1,10 +1,10 @@
 # Sharks-Attack
 
-Encoding .csv file
+Encoding .csv file - Done
 
 Create a copy of original DataFrame
 Check and clean dataset
-Look for a list of countries by continent
+Look for a list of countries by continent - Done
 
 Show trend over years
 Show shark attacks by country/continent
