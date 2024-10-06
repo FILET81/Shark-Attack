@@ -8,6 +8,7 @@ Look for a list of countries by continent
 
 Show trend over years
 Show shark attacks by country/continent
+Show shark attacks by country/continent and year
 Show Male/Female
 Show Fatal(Y/N)
 
